@@ -29,7 +29,7 @@ public class Jugador_contra_maquina {
 
         num_oculto = 1+aleatorio.nextInt(50);
         
-        System.out.println(num_oculto);    //para comprobar que el juego funciona mostrandome el numero aculto antes de empezar a jugar
+        //System.out.println(num_oculto);    //para comprobar que el juego funciona mostrandome el numero aculto antes de empezar a jugar
 
         JOptionPane.showConfirmDialog(null, "Jugador 1 estas preparado");
 
